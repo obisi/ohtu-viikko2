@@ -6,4 +6,5 @@ mahdollisuus kehittyä itsenäisesti paremmiksi ja rakennetaan kestäviä suhtei
 omien hyväksikoettujen menetelmien jakamista, pienten parannuksien jatkuvaa miettimistä, juurisyiden etsimistä, jätteen etsimistä
 ja hävittämistä prosessista. Tarkoituksena on saada täydellinen tuotantoprosessi. Tätä ei tietenkään ikinä voi saavuttaa, mutta
 sitä kohti voi tähdätä. Kaiken perustana on kuitenkin syvälle juurtunut ajatus lean-menetelmistä ja niiden käyttämisestä. Ihmisiä
-ei voi pakottaa käyttämään näitä, halun pitää lähteä ihmisistä itsestä. 
+ei voi pakottaa käyttämään näitä, halun pitää lähteä ihmisistä itsestä. Ihmiskeskeiyys onkin leanin keskeisin osa. Kirjassa alussa on hyvä sitaatti, joka kuvaa tämän yksinkertaisen ajatusmaailman käyttöönoton hankaluutta: kahdenkymmenen vuoden opiskelun ja muiden epäonnistumisien jälkeen, opettajien
+oppi alkaa vihdoin mennä perille. 
